@@ -1,0 +1,43 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d460a9e3-b61d-6666-14c8-1fe0cba90453",
+      "a0f16e50-2187-bc7b-30e2-b96c94485ccb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Design and Manufacturing II",
+  "course_description": "This course introduces you to modern manufacturing with four areas of emphasis: manufacturing processes, equipment/control, systems, and design for manufacturing. The course exposes you to integration of engineering and management disciplines for determining manufacturing rate, cost, quality and flexibility. Topics include process physics, equipment design and automation/control, quality, design for manufacturing, industrial management, and systems design and operation. Labs are integral parts of the course, and expose you to various manufacturing disciplines and practices.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.008",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
